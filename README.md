@@ -1,3 +1,5 @@
+# 🛑 THIS FORK HAS BEEN MERGED. USE [raskul/go-clickup](https://www.github.com/raskul/go-clickup).
+
 # go-clickup
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/raksul/go-clickup/clickup.svg)](https://pkg.go.dev/github.com/raksul/go-clickup/clickup)
