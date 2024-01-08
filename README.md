@@ -1,4 +1,4 @@
-# 🛑 THIS FORK HAS BEEN MERGED. USE [raksul/go-clickup]([https://www.github.com/raskul/go-clickup](https://github.com/raksul/go-clickup)).
+# 🛑 THIS FORK HAS BEEN MERGED. USE [raksul/go-clickup](https://www.github.com/raskul/go-clickup).
 
 # go-clickup
 
